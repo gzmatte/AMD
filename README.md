@@ -1,4 +1,4 @@
-![AMDT](https://github.com/gzmatte/AMD/assets/117684932/6d09fe1e-1932-4770-8f7c-758384ccb836)
+![AMDT](https://github.com/gzmatte/AMD/assets/117684932/aba1fd9f-8373-4596-99b5-58c33b597ed8)
 
 - A batch to modify AMD settings without Catalyst / Panel.
 
