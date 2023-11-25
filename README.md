@@ -7,4 +7,5 @@
 
 ![Screenshot_11](https://github.com/gzmatte/AMD/assets/117684932/3ec21222-f5e8-4b1e-af01-1813dcbd541d)
 
-![Uploading TEST2.png…]()
+
+![TEST2](https://github.com/gzmatte/AMD/assets/117684932/9ef362e8-5037-4443-a64e-66a14519d9df)
