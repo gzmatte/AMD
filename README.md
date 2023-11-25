@@ -8,10 +8,8 @@
 ![Screenshot_11](https://github.com/gzmatte/AMD/assets/117684932/3ec21222-f5e8-4b1e-af01-1813dcbd541d)
 
 
-![TEST2](https://github.com/gzmatte/AMD/assets/117684932/9ef362e8-5037-4443-a64e-66a14519d9df)
+![240](https://github.com/gzmatte/AMD/assets/117684932/904b97b4-0c16-49ef-8f21-f9e5b47e063b)
+![480](https://github.com/gzmatte/AMD/assets/117684932/df3538c2-2c4e-4543-a634-af40ba65c44f)
+![720](https://github.com/gzmatte/AMD/assets/117684932/6cc80cec-7939-46ff-9382-80d6152193f2)
+![1080](https://github.com/gzmatte/AMD/assets/117684932/628dac8e-191a-4719-81b5-da357b6da7b7)
 
-![TEST4](https://github.com/gzmatte/AMD/assets/117684932/9b19eff9-06c8-4b86-b1f5-be5cbe805bc3)
-
-![TEST1](https://github.com/gzmatte/AMD/assets/117684932/6c86a1d2-3211-43e8-82f5-ebb379936641)
-
-![TEST3](https://github.com/gzmatte/AMD/assets/117684932/7b924d95-913a-4660-848e-3ae608a49ff5)
