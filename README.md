@@ -9,3 +9,9 @@
 
 
 ![TEST2](https://github.com/gzmatte/AMD/assets/117684932/9ef362e8-5037-4443-a64e-66a14519d9df)
+
+![TEST4](https://github.com/gzmatte/AMD/assets/117684932/9b19eff9-06c8-4b86-b1f5-be5cbe805bc3)
+
+![TEST1](https://github.com/gzmatte/AMD/assets/117684932/6c86a1d2-3211-43e8-82f5-ebb379936641)
+
+![TEST3](https://github.com/gzmatte/AMD/assets/117684932/7b924d95-913a-4660-848e-3ae608a49ff5)
