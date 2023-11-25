@@ -1,6 +1,6 @@
 ![AMDT](https://github.com/gzmatte/AMD/assets/117684932/aba1fd9f-8373-4596-99b5-58c33b597ed8)
 
-- A batch to modify AMD settings without Catalyst / Panel.
+A batch to modify AMD settings without Catalyst / Panel.
 
 ### ★ [Download](https://github.com/gzmatte/AMD/releases/download/1/AMD-FPS.bat)
 
