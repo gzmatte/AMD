@@ -3,11 +3,12 @@
 
 **A batch to modify AMD settings without Catalyst Panel.**
 
+![32](https://github.com/gzmatte/AMD/assets/117684932/425a1ced-1e70-4b67-8682-5b4e38c658d0)
+![48](https://github.com/gzmatte/AMD/assets/117684932/c3443fe8-135c-4ae7-b7ad-aa1e8d5cc6c4)
+![64](https://github.com/gzmatte/AMD/assets/117684932/ec06bffa-35ff-4a0a-9111-fd3babb15411)
+
 #### [★] [Download](https://github.com/gzmatte/AMD/releases/download/1/AMD-FPS.bat)
 
 ![Screenshot_11](https://github.com/gzmatte/AMD/assets/117684932/3ec21222-f5e8-4b1e-af01-1813dcbd541d)
 
-![64](https://github.com/gzmatte/AMD/assets/117684932/aafd3176-049a-4091-998f-752b6e812ac6)
-![120](https://github.com/gzmatte/AMD/assets/117684932/feda3e1b-1a2a-4394-915f-34c0d160b787)
-![240](https://github.com/gzmatte/AMD/assets/117684932/904b97b4-0c16-49ef-8f21-f9e5b47e063b)
 
