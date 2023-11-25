@@ -11,4 +11,6 @@ RESTART AFTER TWEAKING ALL YOUR THINGS.
 1: AntiLag (Less input lag)
 2: Radeon Chill (Set a FPS cap)
 3: PRE-RENDERED FRAMES
+
+:
 ```
