@@ -13,7 +13,7 @@ RESTART AFTER TWEAKING ALL YOUR THINGS.
 3: PRE-RENDERED FRAMES
 ```
 
-
+----
 ![AMDT](https://github.com/gzmatte/AMD/assets/117684932/aba1fd9f-8373-4596-99b5-58c33b597ed8)
 ------------
 
