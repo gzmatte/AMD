@@ -12,3 +12,11 @@ RESTART AFTER TWEAKING ALL YOUR THINGS.
 2: Radeon Chill (Set a FPS cap)
 3: PRE-RENDERED FRAMES
 ```
+
+-----
+![AMDT](https://github.com/gzmatte/AMD/assets/117684932/aba1fd9f-8373-4596-99b5-58c33b597ed8)
+------------
+
+**A zip file with a custom driver installation and advanced tweaks.**
+
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/AMD/releases/download/1/AMD.zip)
