@@ -2,6 +2,7 @@
 ------------
 
 **A batch to modify AMD settings without Catalyst Panel.**
+If u want "real" AMD tweaks, use [this](https://github.com/gzmatte/ATR).
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/AMD/releases/download/1/AMD-FPS.bat)
 
