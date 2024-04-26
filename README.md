@@ -20,3 +20,5 @@ RESTART AFTER TWEAKING ALL YOUR THINGS.
 **A zip file that includes a 20.4.2 Modded Driver & Advanced Tweaks.**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/AMD/releases/download/1/AMD.zip)
+
+Credits [Pablerso](https://github.com/pablerso)
