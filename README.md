@@ -21,4 +21,4 @@ RESTART AFTER TWEAKING ALL YOUR THINGS.
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/AMD/releases/download/1/AMD.zip)
 
-Credits [Pablerso](https://github.com/pablerso) for the driver.
+Credits [Pablerso](https://github.com/pablerso) (Driver)
